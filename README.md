@@ -40,21 +40,7 @@ Use the make file for compilation. Enter make in the terminal to compile the sou
 }
 ```
 
-4. [Effect of gusty inflow on the jet-switching characteristics of a plunging foil](https://doi.org/10.1063/5.0024084)
-
-```
-@article{majumdar2020effect,
-  title={Effect of gusty inflow on the jet-switching characteristics of a plunging foil},
-  author={Majumdar, Dipanjan and Bose, Chandan and Sarkar, Sunetra},
-  journal={Physics of Fluids},
-  volume={32},
-  number={11},
-  year={2020},
-  publisher={AIP Publishing}
-}
-```
-
-5. [Passive dynamics regulates aperiodic transitions in flapping wing systems](https://doi.org/10.1093/pnasnexus/pgad086)
+4. [Passive dynamics regulates aperiodic transitions in flapping wing systems](https://doi.org/10.1093/pnasnexus/pgad086)
 
 ```
 @article{majumdar2023passive,
@@ -69,7 +55,7 @@ Use the make file for compilation. Enter make in the terminal to compile the sou
 }
 ```
 
-6. [Investigating the Transitional Dynamics in the Flow-Field Past a Flapping Foil using Immersed Boundary Method](https://www.researchgate.net/publication/376596327_Investigating_the_Transitional_Dynamics_in_the_Flow-Field_Past_a_Flapping_Foil_using_Immersed_Boundary_Method)
+5. [Investigating the Transitional Dynamics in the Flow-Field Past a Flapping Foil using Immersed Boundary Method](https://www.researchgate.net/publication/376596327_Investigating_the_Transitional_Dynamics_in_the_Flow-Field_Past_a_Flapping_Foil_using_Immersed_Boundary_Method)
 
 ```
 @phdthesis{majumdar2022thesis,
